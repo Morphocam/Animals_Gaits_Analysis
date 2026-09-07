@@ -1,0 +1,24 @@
+opencv-python-headless
+torch
+torchvision
+scikit-learn
+pandas
+matplotlib
+scipy
+numpy
+tqdm
+requests
+segment-anything
+
+# Temporal stream (VideoPrism). The package itself is vendored:
+#   pip install -e vendor/videoprism
+jax
+jaxlib
+flax
+dm-haiku
+einops
+einshape
+huggingface-hub
+absl-py
+sentencepiece
+tensorflow-cpu   # videoprism.utils imports tensorflow.io.gfile
