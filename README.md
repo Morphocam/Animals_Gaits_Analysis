@@ -169,11 +169,9 @@ tools/
   test_extraction.py       single-clip smoke test with timings
   diagnose_streams.py      reports how much of each embedding is a shared constant offset
   fetch_resnet_weights.py  ResNet18 weight download with a mirror fallback
-  verify_table2.py         recompute intra/inter similarity stats from CSVs/
 CSVs/                      per-species similarity matrices (camel, giraffe, hyena, lion, zebra)
 gaits_clusters.py          standalone figure script for the CSVs
 vendor/videoprism/         vendored VideoPrism (google-deepmind/videoprism)
-GaitAnalysis.pdf           method write-up
 ```
 
 ### `CSVs/` and `gaits_clusters.py`
