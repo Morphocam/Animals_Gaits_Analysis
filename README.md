@@ -51,6 +51,20 @@ The two streams deliberately receive **different inputs**: ResNet18 sees colour 
 while VideoPrism sees only the silhouette outline changing over time. Clustering runs **within a
 single species** — species classification is not part of this pipeline.
 
+### Segmentation backend
+
+The published results were produced with **SAM3**, using its prompted video segmentation and
+tracking to propagate a mask through each clip.
+
+The code in this repository currently drives **SAM 1** (`segment_anything`, `vit_b`), whose
+checkpoint downloads automatically. Because SAM 1 has no native video tracking, `SamVideoSegmenter`
+reproduces the prompt-once-then-propagate protocol by seeding each frame with the previous frame's
+mask box and centroid.
+
+Segmentation sits behind a small interface, so swapping in SAM3 needs changes in two places only —
+`get_sam_predictor()` and `SamVideoSegmenter.segment_video()` in `src/feature_extractor.py`.
+Everything downstream consumes the resulting binary mask sequence and is unaffected.
+
 ---
 
 ## Data layout
@@ -196,11 +210,6 @@ separates individuals by only ~0.002. Mean-centre the same embeddings and separa
 `shared_mean_fraction` (near 1.0 means heavy compression) and `tools/diagnose_streams.py` breaks it
 down per stream. Pass `--resnet-checkpoint` to load adapted spatial weights; there is no equivalent
 hook for VideoPrism yet.
-
-**Segmentation uses SAM 1, not SAM3.** SAM 1 has no native video tracking, so `SamVideoSegmenter`
-approximates prompt-once-then-propagate by seeding each frame with the previous frame's mask box and
-centroid. It sits behind an interface, so a SAM3 predictor can be substituted without touching
-anything downstream.
 
 **The 0.15 dendrogram cut assumes fine-tuned embeddings.** With frozen encoders every pairwise
 distance can fall below it, collapsing the dendrogram to a single cluster. The pipeline prints an
