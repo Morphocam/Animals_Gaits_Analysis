@@ -8,17 +8,15 @@ scipy
 numpy
 tqdm
 requests
-segment-anything
+segment-anything   # legacy run_pipeline.py only
 
-# Temporal stream (VideoPrism). The package itself is vendored:
-#   pip install -e vendor/videoprism
-jax
-jaxlib
-flax
-dm-haiku
-einops
-einshape
+# extract_features.py (current pipeline)
+sam2>=1.1.0        # SAM 2 video predictor
+transformers>=5.0  # Grounding DINO, VideoPrism, ViTPose+
+timm>=1.0          # MegaDescriptor-L-384
+pillow
+
+# VideoPrism (silhouette stream) and ViTPose+ (pose) run through transformers in
+# PyTorch; JAX and the vendored videoprism package are no longer needed.
 huggingface-hub
-absl-py
-sentencepiece
-tensorflow-cpu   # videoprism.utils imports tensorflow.io.gfile
+safetensors>=0.4
