@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "species": "hyena",
+  "fold": 3,
+  "input": "16 RGB-masked frames per clip",
+  "note": "torchvision resnet18 with fc removed; conv1-layer2 unchanged from ImageNet; classification head discarded"
+}

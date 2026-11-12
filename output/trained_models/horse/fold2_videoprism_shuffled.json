@@ -1,0 +1,33 @@
+{
+  "base": "MHRDYN7/videoprism-base-f16r288@c5bb17adeb575aaf1d46b56c5b9dfa1b00465c80",
+  "classes": [
+    "FM0240",
+    "FM0242",
+    "FM0246",
+    "FM0630",
+    "FM1030",
+    "FM1891",
+    "FM1892",
+    "FM1942",
+    "FM2032",
+    "FM2034",
+    "FM2035",
+    "FM2036",
+    "FM2150",
+    "FM2235",
+    "FM2279",
+    "FM2292",
+    "FM2297",
+    "FM2298",
+    "FM2438",
+    "FM2644",
+    "FM2681",
+    "FM2694",
+    "FM2768",
+    "FM2780"
+  ],
+  "species": "horse",
+  "fold": 2,
+  "input": "16 binary silhouettes per clip, in shuffled order",
+  "note": "control: trained on silhouettes in shuffled order"
+}

@@ -1,0 +1,13 @@
+{
+  "base": "MHRDYN7/videoprism-base-f16r288@c5bb17adeb575aaf1d46b56c5b9dfa1b00465c80",
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "species": "hyena",
+  "fold": 3,
+  "input": "16 binary silhouettes per clip, in order",
+  "note": "temporal_embeddings (embed), temporal_layers (layers) and layernorm2 (norm) of VideoPrismVisionModel; all other weights are those of the base model; classification head discarded"
+}
