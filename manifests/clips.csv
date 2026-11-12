@@ -1,0 +1,172 @@
+clip_id,species,individual,clip,path,chunk_index,n_frames,fps,width,height,duration_s,source_id,source_inferred,source_type,source_ref,label_basis,notes,visible_species,exclude
+camel/A/A_1,camel,A,A_1.mp4,input/camel/A/A_1.mp4,1,75,25.0,768,432,3.0,camel-A-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/A/A_2,camel,A,A_2.mp4,input/camel/A/A_2.mp4,2,75,25.0,768,432,3.0,camel-A-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/A/A_3,camel,A,A_3.mp4,input/camel/A/A_3.mp4,3,75,25.0,768,432,3.0,camel-A-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/A/A_4,camel,A,A_4.mp4,input/camel/A/A_4.mp4,4,75,25.0,768,432,3.0,camel-A-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/A/A_5,camel,A,A_5.mp4,input/camel/A/A_5.mp4,5,12,25.0,768,432,0.48,camel-A-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/B/B_1,camel,B,B_1.mp4,input/camel/B/B_1.mp4,1,75,25.0,768,432,3.0,camel-B-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/B/B_2,camel,B,B_2.mp4,input/camel/B/B_2.mp4,2,75,25.0,768,432,3.0,camel-B-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/B/B_3,camel,B,B_3.mp4,input/camel/B/B_3.mp4,3,75,25.0,768,432,3.0,camel-B-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/B/B_4,camel,B,B_4.mp4,input/camel/B/B_4.mp4,4,75,25.0,768,432,3.0,camel-B-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/B/B_5,camel,B,B_5.mp4,input/camel/B/B_5.mp4,5,75,25.0,768,432,3.0,camel-B-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/B/B_6,camel,B,B_6.mp4,input/camel/B/B_6.mp4,6,75,25.0,768,432,3.0,camel-B-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/B/B_7,camel,B,B_7.mp4,input/camel/B/B_7.mp4,7,58,25.0,768,432,2.32,camel-B-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_1,camel,C,C_1.mp4,input/camel/C/C_1.mp4,1,75,25.0,768,432,3.0,camel-C-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_2,camel,C,C_2.mp4,input/camel/C/C_2.mp4,2,75,25.0,768,432,3.0,camel-C-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_3,camel,C,C_3.mp4,input/camel/C/C_3.mp4,3,42,25.0,768,432,1.68,camel-C-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_4,camel,C,C_4.mp4,input/camel/C/C_4.mp4,4,90,30.0,1280,720,3.0,camel-C-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_5,camel,C,C_5.mp4,input/camel/C/C_5.mp4,5,90,30.0,1280,720,3.0,camel-C-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_6,camel,C,C_6.mp4,input/camel/C/C_6.mp4,6,90,30.0,1280,720,3.0,camel-C-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_7,camel,C,C_7.mp4,input/camel/C/C_7.mp4,7,90,30.0,1280,720,3.0,camel-C-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_8,camel,C,C_8.mp4,input/camel/C/C_8.mp4,8,90,30.0,1280,720,3.0,camel-C-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_9,camel,C,C_9.mp4,input/camel/C/C_9.mp4,9,90,30.0,1280,720,3.0,camel-C-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/C/C_10,camel,C,C_10.mp4,input/camel/C/C_10.mp4,10,6,30.0,1280,720,0.2,camel-C-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/D/D_1,camel,D,D_1.mp4,input/camel/D/D_1.mp4,1,89,29.97,768,432,2.97,camel-D-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/D/D_2,camel,D,D_2.mp4,input/camel/D/D_2.mp4,2,89,29.97,768,432,2.97,camel-D-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/D/D_3,camel,D,D_3.mp4,input/camel/D/D_3.mp4,3,89,29.97,768,432,2.97,camel-D-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/D/D_4,camel,D,D_4.mp4,input/camel/D/D_4.mp4,4,10,29.97,768,432,0.33,camel-D-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/D/D_5,camel,D,D_5.mp4,input/camel/D/D_5.mp4,5,508,25.0,768,432,20.32,camel-D-s2,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+camel/D/D_6,camel,D,D_6.mp4,input/camel/D/D_6.mp4,6,277,29.97,768,432,9.24,camel-D-s1,1,,,,folder 'camel' contains spotted hyena footage,hyena,
+giraffe/A/A_1,giraffe,A,A_1.mp4,input/giraffe/A/A_1.mp4,1,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_2,giraffe,A,A_2.mp4,input/giraffe/A/A_2.mp4,2,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_3,giraffe,A,A_3.mp4,input/giraffe/A/A_3.mp4,3,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_4,giraffe,A,A_4.mp4,input/giraffe/A/A_4.mp4,4,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_5,giraffe,A,A_5.mp4,input/giraffe/A/A_5.mp4,5,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_6,giraffe,A,A_6.mp4,input/giraffe/A/A_6.mp4,6,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_7,giraffe,A,A_7.mp4,input/giraffe/A/A_7.mp4,7,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_8,giraffe,A,A_8.mp4,input/giraffe/A/A_8.mp4,8,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_9,giraffe,A,A_9.mp4,input/giraffe/A/A_9.mp4,9,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_10,giraffe,A,A_10.mp4,input/giraffe/A/A_10.mp4,10,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_11,giraffe,A,A_11.mp4,input/giraffe/A/A_11.mp4,11,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_12,giraffe,A,A_12.mp4,input/giraffe/A/A_12.mp4,12,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_13,giraffe,A,A_13.mp4,input/giraffe/A/A_13.mp4,13,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_14,giraffe,A,A_14.mp4,input/giraffe/A/A_14.mp4,14,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_15,giraffe,A,A_15.mp4,input/giraffe/A/A_15.mp4,15,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_16,giraffe,A,A_16.mp4,input/giraffe/A/A_16.mp4,16,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_17,giraffe,A,A_17.mp4,input/giraffe/A/A_17.mp4,17,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_18,giraffe,A,A_18.mp4,input/giraffe/A/A_18.mp4,18,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_19,giraffe,A,A_19.mp4,input/giraffe/A/A_19.mp4,19,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/A/A_20,giraffe,A,A_20.mp4,input/giraffe/A/A_20.mp4,20,89,29.8,360,360,2.99,giraffe-A-s1,1,,,,,,
+giraffe/B/B_1,giraffe,B,B_1.mp4,input/giraffe/B/B_1.mp4,1,90,30.0,640,360,3.0,giraffe-B-s1,1,,,,,,
+giraffe/B/B_2,giraffe,B,B_2.mp4,input/giraffe/B/B_2.mp4,2,90,30.0,640,360,3.0,giraffe-B-s1,1,,,,,,
+giraffe/B/B_3,giraffe,B,B_3.mp4,input/giraffe/B/B_3.mp4,3,90,30.0,640,360,3.0,giraffe-B-s1,1,,,,,,
+giraffe/B/B_4,giraffe,B,B_4.mp4,input/giraffe/B/B_4.mp4,4,90,30.0,640,360,3.0,giraffe-B-s1,1,,,,,,
+giraffe/B/B_5,giraffe,B,B_5.mp4,input/giraffe/B/B_5.mp4,5,90,30.0,640,360,3.0,giraffe-B-s1,1,,,,,,
+giraffe/B/B_6,giraffe,B,B_6.mp4,input/giraffe/B/B_6.mp4,6,90,30.0,640,360,3.0,giraffe-B-s1,1,,,,,,
+giraffe/B/B_7,giraffe,B,B_7.mp4,input/giraffe/B/B_7.mp4,7,90,30.0,640,360,3.0,giraffe-B-s1,1,,,,,,
+giraffe/B/B_8,giraffe,B,B_8.mp4,input/giraffe/B/B_8.mp4,8,42,30.0,640,360,1.4,giraffe-B-s1,1,,,,,,
+giraffe/C/C_1,giraffe,C,C_1.mp4,input/giraffe/C/C_1.mp4,1,89,29.97,640,360,2.97,giraffe-C-s1,1,,,,,zebra,
+giraffe/C/C_2,giraffe,C,C_2.mp4,input/giraffe/C/C_2.mp4,2,89,29.97,640,360,2.97,giraffe-C-s1,1,,,,,zebra,
+giraffe/C/C_3,giraffe,C,C_3.mp4,input/giraffe/C/C_3.mp4,3,80,29.97,640,360,2.67,giraffe-C-s1,1,,,,,zebra,
+giraffe/D/D_1,giraffe,D,D_1.mp4,input/giraffe/D/D_1.mp4,1,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_2,giraffe,D,D_2.mp4,input/giraffe/D/D_2.mp4,2,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_3,giraffe,D,D_3.mp4,input/giraffe/D/D_3.mp4,3,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_4,giraffe,D,D_4.mp4,input/giraffe/D/D_4.mp4,4,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_5,giraffe,D,D_5.mp4,input/giraffe/D/D_5.mp4,5,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_6,giraffe,D,D_6.mp4,input/giraffe/D/D_6.mp4,6,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_7,giraffe,D,D_7.mp4,input/giraffe/D/D_7.mp4,7,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_8,giraffe,D,D_8.mp4,input/giraffe/D/D_8.mp4,8,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_9,giraffe,D,D_9.mp4,input/giraffe/D/D_9.mp4,9,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_10,giraffe,D,D_10.mp4,input/giraffe/D/D_10.mp4,10,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_11,giraffe,D,D_11.mp4,input/giraffe/D/D_11.mp4,11,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_12,giraffe,D,D_12.mp4,input/giraffe/D/D_12.mp4,12,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_13,giraffe,D,D_13.mp4,input/giraffe/D/D_13.mp4,13,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_14,giraffe,D,D_14.mp4,input/giraffe/D/D_14.mp4,14,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_15,giraffe,D,D_15.mp4,input/giraffe/D/D_15.mp4,15,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_16,giraffe,D,D_16.mp4,input/giraffe/D/D_16.mp4,16,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_17,giraffe,D,D_17.mp4,input/giraffe/D/D_17.mp4,17,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_18,giraffe,D,D_18.mp4,input/giraffe/D/D_18.mp4,18,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_19,giraffe,D,D_19.mp4,input/giraffe/D/D_19.mp4,19,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/D/D_20,giraffe,D,D_20.mp4,input/giraffe/D/D_20.mp4,20,149,29.97,3840,2160,4.97,giraffe-D-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/E/E_1,giraffe,E,E_1.mp4,input/giraffe/E/E_1.mp4,1,90,30.0,1280,720,3.0,giraffe-E-s1,1,,,,,elephant,
+giraffe/E/E_2,giraffe,E,E_2.mp4,input/giraffe/E/E_2.mp4,2,90,30.0,1280,720,3.0,giraffe-E-s1,1,,,,,elephant,
+giraffe/E/E_3,giraffe,E,E_3.mp4,input/giraffe/E/E_3.mp4,3,90,30.0,1280,720,3.0,giraffe-E-s1,1,,,,,elephant,
+giraffe/E/E_4,giraffe,E,E_4.mp4,input/giraffe/E/E_4.mp4,4,90,30.0,1280,720,3.0,giraffe-E-s1,1,,,,,elephant,
+giraffe/E/E_5,giraffe,E,E_5.mp4,input/giraffe/E/E_5.mp4,5,55,30.0,1280,720,1.83,giraffe-E-s1,1,,,,,elephant,
+giraffe/H/H_1,giraffe,H,H_1.mp4,input/giraffe/H/H_1.mp4,1,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_2,giraffe,H,H_2.mp4,input/giraffe/H/H_2.mp4,2,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_3,giraffe,H,H_3.mp4,input/giraffe/H/H_3.mp4,3,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_4,giraffe,H,H_4.mp4,input/giraffe/H/H_4.mp4,4,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_5,giraffe,H,H_5.mp4,input/giraffe/H/H_5.mp4,5,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_6,giraffe,H,H_6.mp4,input/giraffe/H/H_6.mp4,6,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_7,giraffe,H,H_7.mp4,input/giraffe/H/H_7.mp4,7,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_8,giraffe,H,H_8.mp4,input/giraffe/H/H_8.mp4,8,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_9,giraffe,H,H_9.mp4,input/giraffe/H/H_9.mp4,9,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_10,giraffe,H,H_10.mp4,input/giraffe/H/H_10.mp4,10,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_11,giraffe,H,H_11.mp4,input/giraffe/H/H_11.mp4,11,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_12,giraffe,H,H_12.mp4,input/giraffe/H/H_12.mp4,12,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_13,giraffe,H,H_13.mp4,input/giraffe/H/H_13.mp4,13,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_14,giraffe,H,H_14.mp4,input/giraffe/H/H_14.mp4,14,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_15,giraffe,H,H_15.mp4,input/giraffe/H/H_15.mp4,15,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+giraffe/H/H_16,giraffe,H,H_16.mp4,input/giraffe/H/H_16.mp4,16,149,29.97,3840,2160,4.97,giraffe-H-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+lion/A/A_1,lion,A,A_1.mp4,input/lion/A/A_1.mp4,1,125,25.0,1280,720,5.0,lion-A-s1,1,,,,,,
+lion/A/A_2,lion,A,A_2.mp4,input/lion/A/A_2.mp4,2,125,25.0,1280,720,5.0,lion-A-s1,1,,,,,,
+lion/A/A_3,lion,A,A_3.mp4,input/lion/A/A_3.mp4,3,125,25.0,1280,720,5.0,lion-A-s1,1,,,,,,
+lion/A/A_4,lion,A,A_4.mp4,input/lion/A/A_4.mp4,4,125,25.0,1280,720,5.0,lion-A-s1,1,,,,,,
+lion/A/A_5,lion,A,A_5.mp4,input/lion/A/A_5.mp4,5,125,25.0,1280,720,5.0,lion-A-s1,1,,,,,,
+lion/A/A_6,lion,A,A_6.mp4,input/lion/A/A_6.mp4,6,125,25.0,1280,720,5.0,lion-A-s1,1,,,,,,
+lion/B/B_1,lion,B,B_1.mp4,input/lion/B/B_1.mp4,1,150,29.97,1280,720,5.01,lion-B-s1,1,,,,,,
+lion/B/B_2,lion,B,B_2.mp4,input/lion/B/B_2.mp4,2,150,29.97,1280,720,5.01,lion-B-s1,1,,,,,,
+lion/B/B_3,lion,B,B_3.mp4,input/lion/B/B_3.mp4,3,150,29.97,1280,720,5.01,lion-B-s1,1,,,,,,
+lion/B/B_4,lion,B,B_4.mp4,input/lion/B/B_4.mp4,4,150,29.97,1280,720,5.01,lion-B-s1,1,,,,,,
+lion/B/B_5,lion,B,B_5.mp4,input/lion/B/B_5.mp4,5,150,29.97,1280,720,5.01,lion-B-s1,1,,,,,,
+lion/B/B_6,lion,B,B_6.mp4,input/lion/B/B_6.mp4,6,150,29.97,1280,720,5.01,lion-B-s1,1,,,,,,
+lion/B/B_7,lion,B,B_7.mp4,input/lion/B/B_7.mp4,7,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_8,lion,B,B_8.mp4,input/lion/B/B_8.mp4,8,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_9,lion,B,B_9.mp4,input/lion/B/B_9.mp4,9,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_10,lion,B,B_10.mp4,input/lion/B/B_10.mp4,10,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_11,lion,B,B_11.mp4,input/lion/B/B_11.mp4,11,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_12,lion,B,B_12.mp4,input/lion/B/B_12.mp4,12,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_13,lion,B,B_13.mp4,input/lion/B/B_13.mp4,13,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_14,lion,B,B_14.mp4,input/lion/B/B_14.mp4,14,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_15,lion,B,B_15.mp4,input/lion/B/B_15.mp4,15,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_16,lion,B,B_16.mp4,input/lion/B/B_16.mp4,16,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_17,lion,B,B_17.mp4,input/lion/B/B_17.mp4,17,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_18,lion,B,B_18.mp4,input/lion/B/B_18.mp4,18,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_19,lion,B,B_19.mp4,input/lion/B/B_19.mp4,19,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_22,lion,B,B_22.mp4,input/lion/B/B_22.mp4,22,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_23,lion,B,B_23.mp4,input/lion/B/B_23.mp4,23,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_24,lion,B,B_24.mp4,input/lion/B/B_24.mp4,24,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_25,lion,B,B_25.mp4,input/lion/B/B_25.mp4,25,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_26,lion,B,B_26.mp4,input/lion/B/B_26.mp4,26,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_27,lion,B,B_27.mp4,input/lion/B/B_27.mp4,27,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_28,lion,B,B_28.mp4,input/lion/B/B_28.mp4,28,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_29,lion,B,B_29.mp4,input/lion/B/B_29.mp4,29,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/B/B_30,lion,B,B_30.mp4,input/lion/B/B_30.mp4,30,89,29.97,1280,720,2.97,lion-B-s1,1,,,,,,
+lion/C/C_1,lion,C,C_1.mp4,input/lion/C/C_1.mp4,1,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_2,lion,C,C_2.mp4,input/lion/C/C_2.mp4,2,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_3,lion,C,C_3.mp4,input/lion/C/C_3.mp4,3,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_4,lion,C,C_4.mp4,input/lion/C/C_4.mp4,4,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_5,lion,C,C_5.mp4,input/lion/C/C_5.mp4,5,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_6,lion,C,C_6.mp4,input/lion/C/C_6.mp4,6,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_7,lion,C,C_7.mp4,input/lion/C/C_7.mp4,7,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_8,lion,C,C_8.mp4,input/lion/C/C_8.mp4,8,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_9,lion,C,C_9.mp4,input/lion/C/C_9.mp4,9,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_10,lion,C,C_10.mp4,input/lion/C/C_10.mp4,10,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_11,lion,C,C_11.mp4,input/lion/C/C_11.mp4,11,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_12,lion,C,C_12.mp4,input/lion/C/C_12.mp4,12,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_13,lion,C,C_13.mp4,input/lion/C/C_13.mp4,13,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_14,lion,C,C_14.mp4,input/lion/C/C_14.mp4,14,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_15,lion,C,C_15.mp4,input/lion/C/C_15.mp4,15,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_16,lion,C,C_16.mp4,input/lion/C/C_16.mp4,16,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_17,lion,C,C_17.mp4,input/lion/C/C_17.mp4,17,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_18,lion,C,C_18.mp4,input/lion/C/C_18.mp4,18,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_19,lion,C,C_19.mp4,input/lion/C/C_19.mp4,19,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_20,lion,C,C_20.mp4,input/lion/C/C_20.mp4,20,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/C/C_21,lion,C,C_21.mp4,input/lion/C/C_21.mp4,21,90,30.0,1280,720,3.0,lion-C-s1,1,,,,,,
+lion/D/D_1,lion,D,D_1.mp4,input/lion/D/D_1.mp4,1,125,25.0,1280,720,5.0,lion-D-s1,1,,,,,,
+lion/D/D_2,lion,D,D_2.mp4,input/lion/D/D_2.mp4,2,125,25.0,1280,720,5.0,lion-D-s1,1,,,,,,
+lion/D/D_3,lion,D,D_3.mp4,input/lion/D/D_3.mp4,3,125,25.0,1280,720,5.0,lion-D-s1,1,,,,,,
+lion/D/D_4,lion,D,D_4.mp4,input/lion/D/D_4.mp4,4,75,25.0,1280,720,3.0,lion-D-s1,1,,,,,,
+lion/D/D_5,lion,D,D_5.mp4,input/lion/D/D_5.mp4,5,75,25.0,1280,720,3.0,lion-D-s1,1,,,,,,
+lion/D/D_6,lion,D,D_6.mp4,input/lion/D/D_6.mp4,6,75,25.0,1280,720,3.0,lion-D-s1,1,,,,,,
+lion/D/D_7,lion,D,D_7.mp4,input/lion/D/D_7.mp4,7,75,25.0,1280,720,3.0,lion-D-s1,1,,,,,,
+lion/D/D_8,lion,D,D_8.mp4,input/lion/D/D_8.mp4,8,75,25.0,1280,720,3.0,lion-D-s1,1,,,,,,
+lion/D/D_9,lion,D,D_9.mp4,input/lion/D/D_9.mp4,9,20,25.0,1280,720,0.8,lion-D-s1,1,,,,,,
+lion/E/E_1,lion,E,E_1.mp4,input/lion/E/E_1.mp4,1,89,29.97,3840,2160,2.97,lion-E-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+lion/E/E_2,lion,E,E_2.mp4,input/lion/E/E_2.mp4,2,89,29.97,3840,2160,2.97,lion-E-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+lion/E/E_3,lion,E,E_3.mp4,input/lion/E/E_3.mp4,3,61,29.97,3840,2160,2.04,lion-E-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+lion/E/E_4,lion,E,E_4.mp4,input/lion/E/E_4.mp4,4,89,29.97,3840,2160,2.97,lion-E-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+lion/E/E_5,lion,E,E_5.mp4,input/lion/E/E_5.mp4,5,89,29.97,3840,2160,2.97,lion-E-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+lion/E/E_6,lion,E,E_6.mp4,input/lion/E/E_6.mp4,6,89,29.97,3840,2160,2.97,lion-E-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"
+lion/E/E_7,lion,E,E_7.mp4,input/lion/E/E_7.mp4,7,32,29.97,3840,2160,1.07,lion-E-s1,1,,,,,,"herd footage: several conspecifics in view, focal individual not identifiable from the video"

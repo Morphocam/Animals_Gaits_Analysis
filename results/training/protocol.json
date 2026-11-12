@@ -1,0 +1,13 @@
+{
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "batch_clips": 8,
+  "epochs": 30,
+  "folds": 5,
+  "val_fraction": 0.1,
+  "frames_per_clip_per_step": 2,
+  "resnet_trainable": "layer3, layer4",
+  "videoprism_trainable": "temporal embeddings, 4 temporal layers, final layer norm",
+  "videoprism_base": "MHRDYN7/videoprism-base-f16r288@c5bb17adeb575aaf1d46b56c5b9dfa1b00465c80",
+  "seed": 42
+}

@@ -1,0 +1,4 @@
+species,fold,n_train,n_val,n_test,test_individuals,resnet18_test_acc,videoprism_test_acc,videoprism_test_acc_shuffled_input,videoprism_shuffled_test_acc,chance_acc,minutes
+hyena,2,19,3,5,1,0.0,0.0,0.0,0.0,0.25,0.9
+hyena,3,17,3,7,2,0.0,0.0,0.0,0.0,0.25,0.8
+hyena,4,20,4,3,1,0.0,0.3333333432674408,0.3333333432674408,0.6666666865348816,0.25,0.9
